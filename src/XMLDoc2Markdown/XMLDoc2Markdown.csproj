@@ -11,7 +11,7 @@
     <IsPackable>true</IsPackable>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    ]
+    
     <Authors>Charles de Vandière</Authors>
     <Copyright>© 2024 Charles de Vandière</Copyright>
     <PackageId>XMLDoc2Markdown</PackageId>
